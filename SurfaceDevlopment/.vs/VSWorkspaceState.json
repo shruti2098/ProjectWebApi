@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Authentication",
+    "\\bin",
+    "\\Controllers",
+    "\\Data",
+    "\\Interface",
+    "\\Models",
+    "\\Repo",
+    "\\Services",
+    "\\ViewModel"
+  ],
+  "SelectedNode": "\\Controllers\\PropertyInformationController.cs",
+  "PreviewInSolutionExplorer": false
+}
